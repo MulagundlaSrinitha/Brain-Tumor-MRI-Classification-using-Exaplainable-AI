@@ -1,6 +1,6 @@
 # Brain-Tumor-MRI-Classification-using-Exaplainable-AI
 
-#🧠 Brain Tumor MRI Classification using CNN + Explainable AI (Grad-CAM & Integrated Gradients)
+🧠 Brain Tumor MRI Classification using CNN + Explainable AI (Grad-CAM & Integrated Gradients)
 
 This project uses Deep Learning and Explainable AI (XAI) to classify brain MRI images into:
 
